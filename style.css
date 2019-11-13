@@ -1,0 +1,15 @@
+html, body, #wrap {
+    font-family: 'Source Code Pro', monospace;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+#wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.announcement {
+    text-transform: lowercase;
+    font-size: 120px;
+}
